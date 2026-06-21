@@ -129,9 +129,9 @@ Example:
 
 ## Author
 
-**A. Sreeram Amruthanadhan**
+**A Sreeram, Asil Sameer, Yadav Baiju and Astin Shibu**
 
-Electronics & Communication Engineering Student
+Aritificial Intelligence and Data Science Engineering Student
 
 Passionate about IoT, Embedded Systems, Automation, and Smart Technologies.
 
