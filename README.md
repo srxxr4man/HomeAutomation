@@ -140,7 +140,9 @@ Light          Temp.  Night       Gate
 ## 📂 Project Structure
 
 ```text
-├── HomeAutomation
+├── HomeAutomation.ino
+├── Console.jpeg
+├── DataStream.jpeg
 └── README.md
 ```
 
