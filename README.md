@@ -140,16 +140,7 @@ Light          Temp.  Night       Gate
 ## 📂 Project Structure
 
 ```text
-ESP32-Smart-Home-Automation/
-│
-├── SmartHomeAutomation/
-│   └── SmartHomeAutomation.ino
-│
-├── images/
-│   ├── circuit_diagram.png
-│   ├── hardware_setup.jpg
-│   └── blynk_dashboard.png
-│
+├── HomeAutomation
 └── README.md
 ```
 
@@ -195,22 +186,6 @@ Install the following libraries through the Arduino IDE Library Manager:
 - ⏰ Smart scheduling for household appliances.
 - 🌐 MQTT protocol integration.
 - 📷 Camera-based security monitoring.
-
----
-
-## 📸 Project Demonstration
-
-Add photographs, circuit diagrams, and demonstration videos to showcase the project.
-
-**Suggested images:**
-
-```text
-images/
-├── circuit_diagram.png
-├── hardware_setup.jpg
-├── esp32_connections.jpg
-└── blynk_dashboard.png
-```
 
 ---
 
